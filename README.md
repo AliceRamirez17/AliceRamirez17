@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AliceRamrez-9000/462603A11082927A?sharingId=92CFD93FAE9A4BEE">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AliceRamrez-9000/462603A11082927A?sharingId=92CFD93FAE9A4BEE" target="_BLANK">
     <img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/github-foundations.svg?branch=main" alt="GitHub Foundations" width="110" />
   </a>
 </p>
