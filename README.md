@@ -1,5 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AliceRamrez-9000/462603A11082927A?sharingId=92CFD93FAE9A4BEE">
+    <img src="https://learn.microsoft.com/es-es/media/learn/certification/badges/github-foundations.svg?branch=main" alt="GitHub Foundations" width="110" />
+  </a>
+</p>
 
+<p align="center">
+  🎓 GitHub Certified Foundations Academic
+</p>
 <!--
 **AliceRamirez17/AliceRamirez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
